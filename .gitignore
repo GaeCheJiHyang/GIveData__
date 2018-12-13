@@ -1,0 +1,13 @@
+# .gitignore
+
+# Visual studio
+*.db
+*.sdf
+*.aps
+*.sln
+.vs/
+
+# Binary
+Debug/
+ipch/
+
